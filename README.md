@@ -1,16 +1,11 @@
  # Deployed link
  https://ticketfy4195.netlify.app/
 
+TicketFy is a platform where latest reviews of movies are shown 
 
  
 ![MDB Logo](https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-react.png)
 # MDB React 5
-
-### React 17 & Bootstrap 5 & Material Design 2.0 UI KIT
-
-### Spinners
-
-<p>Indicate the loading state of a component or page with MDB spinners, built entirely with HTML, CSS, and no JavaScript.</p>
 
 ### Cards
 
