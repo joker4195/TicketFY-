@@ -1,0 +1,17 @@
+.card {
+    background: rgb(36, 39, 40) ;
+    padding:1.2rem 1rem ;
+    /* display: flex;
+    flex-direction: row;
+    grid-column: auto; */
+    text-align: center;
+}
+.total-card{
+    display: flex;
+    flex-direction: row;
+    
+}
+.image{
+    padding: auto;
+    width: 100%;
+}
